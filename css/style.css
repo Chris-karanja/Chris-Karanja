@@ -1,4 +1,18 @@
-.name {
+.name{
   font-style: italic;
   color: red;
 }
+.test-box{
+  border: 2px black;
+  padding: 6px;
+  margin: 20px;
+  background-color: grey;
+  text-align: center;
+}
+body{
+
+    background-image: url("../back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+  }
