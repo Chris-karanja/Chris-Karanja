@@ -20,3 +20,7 @@ body{
     font-style: oblique;
     color: white;
   }
+  a{
+    font-style: italic;
+    color: red;
+  }
