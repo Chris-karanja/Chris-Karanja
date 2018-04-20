@@ -16,3 +16,7 @@ body{
     background-size: auto;
 
   }
+  h2{
+    font-style: oblique;
+    color: white;
+  }
