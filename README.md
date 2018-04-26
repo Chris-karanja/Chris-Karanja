@@ -10,7 +10,7 @@ currently there no bugs to the landing page because the page isnt an interractiv
 ## Technologies Used
 i used a few programing languanges that is: html , css i also used github to store all my data just incase i lose or my laptop stops working.
 ## Support and contact details
-for any feedback and issues contact me on my email ; chriswainaina0@gmail.com
+for any feedback and issues contact me on my email ; chriswainaina0@gmail.com and this is the link to the page https://chris-karanja.github.io/Chris-Karanja/
 ### License
 MIT License
 Copyright (c) 2018 Chris-karanja
